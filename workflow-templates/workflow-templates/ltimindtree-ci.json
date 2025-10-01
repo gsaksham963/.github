@@ -1,0 +1,7 @@
+{
+  "name": "LTIMindtree CI Workflow",
+  "description": "Standard CI workflow template for LTIMindtree projects.",
+  "iconName": "code",
+  "categories": ["CI", "Node", "Python"],
+  "filePatterns": ["package.json$", "^Dockerfile", "^\\.md$"]
+}
